@@ -8,10 +8,6 @@
     "bin": "disenchanter.exe",
     "checkver": "github",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/marvinscham/disenchanter/releases/download/v%version/disenchanter.exe"
-            }
-        }
+        "url": "https://github.com/marvinscham/disenchanter/releases/download/v%version/disenchanter.exe"
     }
 }
