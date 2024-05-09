@@ -7,13 +7,6 @@
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add LaurinsStuff https://github.com/LaurinSorgend/LaurinsStuff
-scoop install LaurinStuff/<manifestname>
+scoop bucket add LaurinSorgend_LaurinsStuff https://github.com/LaurinSorgend/LaurinsStuff
+scoop install LaurinSorgend_LaurinsStuff/<manifestname>
 ```
-
-## How do I contribute new manifests?
-
-To make a new manifest contribution, please read the [Contributing
-Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
-and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
-wiki page.
