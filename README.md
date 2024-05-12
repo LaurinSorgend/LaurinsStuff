@@ -1,4 +1,4 @@
-# Laurins Scoop Bucket for miscellaneous stuff
+# Laurins [Scoop](https://github.com/ScoopInstaller/Scoop) Bucket for miscellaneous stuff
 [![Tests](https://github.com/LaurinSorgend/LaurinsStuff/actions/workflows/ci.yml/badge.svg)](https://github.com/LaurinSorgend/LaurinsStuff/actions/workflows/ci.yml) [![Excavator](https://github.com/LaurinSorgend/LaurinsStuff/actions/workflows/excavator.yml/badge.svg)](https://github.com/LaurinSorgend/LaurinsStuff/actions/workflows/excavator.yml)
 
 
