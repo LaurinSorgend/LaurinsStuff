@@ -4,7 +4,7 @@
 
 ## How do I install these manifests?
 
-After manifests have been committed and pushed, run the following:
+Run the following:
 
 ```pwsh
 scoop bucket add LaurinSorgend_LaurinsStuff https://github.com/LaurinSorgend/LaurinsStuff
