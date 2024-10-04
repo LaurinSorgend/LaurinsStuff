@@ -1,0 +1,31 @@
+{
+    "version": "0.20.0",
+    "description": "A modern, maintained replacement for ls, built on exa.",
+    "homepage": "https://github.com/eza-community/eza",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/eza-community/eza/releases/download/v0.20.0/eza.exe_x86_64-pc-windows-gnu.zip",
+            "hash": "2e7c257db56f693614873c528bd29f5edf9960b73b45aa85027108ab36ad9180"
+        }
+    },
+    "bin": [
+        "eza.exe",
+        [
+            "eza.exe",
+            "exa",
+            "ls"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/eza-community/eza/releases/download/v$version/eza.exe_x86_64-pc-windows-gnu.zip"
+            }
+        },
+        "hash": {
+            "url": "https://github.com/eza-community/eza/releases/tag/v$version"
+        }
+    }
+}
