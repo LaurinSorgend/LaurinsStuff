@@ -3,7 +3,7 @@
     "homepage": "https://github.com/jagandeepbrar/lunasea",
     "url": "https://github.com/jagandeepbrar/lunasea/releases/download/v11.0.0/lunasea-windows-amd64.zip",
     "extract_to": "LunaSea",
-        "bin": "LunaSea.exe",
+    "bin": "LunaSea.exe",
     "shortcuts": [
         [
             "LunaSea.exe",
