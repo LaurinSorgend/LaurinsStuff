@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "description": "cli installer Vencord.",
     "homepage": "https://github.com/Vendicated/VencordInstaller",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Vencord/Installer/releases/download/v1.4.0/VencordInstallerCli.exe",
-            "hash": "466D2A0BE1F380DDFFED052DF3CC132125FA34DC1AF29312E14F13F358C8D2A2"
+            "url": "https://github.com/Vencord/Installer/releases/download/v1.4.1/VencordInstallerCli.exe",
+            "hash": "fcca1af57e0688b18fadd6747df5ba54043eb1ae905a8dccf07f03ebecf75f87"
         }
     },
     "checkver": "github",
